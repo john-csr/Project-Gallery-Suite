@@ -4,7 +4,7 @@
 
 # Project Gallery Suite
 
-**Author:** John  
+**Author:** John C. 
 **Last Updated:** September 2025  
 **Environment:** Windows Server (IIS) + PHP + MySQL  
 **Deployment Type:** Local-only, internal use (no external dependencies)
@@ -132,7 +132,7 @@ flowchart TD
 
 ## Author Credit
 
-Built and documented by **John**, a pragmatic systems thinker focused on clarity, speed, and maintainability.  
+Built and documented by **John C.**, a pragmatic systems thinker focused on clarity, speed, and maintainability.  
 For training, onboarding, or extension requests, refer to this README or contact the project maintainer.
 
 ---
