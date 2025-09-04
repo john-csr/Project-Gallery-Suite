@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "red1988GT$";
+$password = "yourpassword";
 $dbname = "gallery_site";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
